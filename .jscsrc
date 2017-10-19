@@ -7,7 +7,6 @@
 , "requireMultipleVarDecl": true
 , "disallowEmptyBlocks": true
 , "disallowSpaceAfterObjectKeys": true
-, "disallowCommaBeforeLineBreak": true
 , "disallowTrailingWhitespace": true
 , "requireCapitalizedConstructors": true
 , "requireSpacesInsideObjectBrackets": "all"
@@ -18,8 +17,6 @@
 , "requireSpaceAfterKeywords": [ "if", "else", "for", "while", "do", "switch", "try", "catch" ]
 , "disallowSpaceAfterPrefixUnaryOperators": [ "++", "--", "+", "-", "~", "!" ]
 , "disallowSpaceBeforePostfixUnaryOperators": [ "++", "--" ]
-, "requireSpaceBeforeBinaryOperators": [ "+", "-", "/", "*", "=", "==", "===", "!=", "!==" ]
-, "requireSpaceAfterBinaryOperators": [ "+", "-", "/", "*", "=", "==", "===", "!=", "!==" ]
 , "disallowKeywordsOnNewLine": [ "else" ]
 , "requireSpacesInFunctionExpression": { "beforeOpeningCurlyBrace": true }
 }
